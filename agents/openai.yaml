@@ -1,0 +1,4 @@
+interface:
+  display_name: "Identity Strategy"
+  short_description: "Direct meaning, positioning, and reception"
+  default_prompt: "Use $identity-strategy to develop or critique the conceptual identity, positioning, and reception of this work."
