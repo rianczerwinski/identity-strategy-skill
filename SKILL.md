@@ -1,6 +1,7 @@
 ---
 name: identity-strategy
 description: "Develop and critique the conceptual identity, positioning, cultural meaning, consumer narrative, category relationship, naming criteria, and reception strategy of a product, organization, publication, public figure, institution, community, or creative work. Use for brand strategy, creative direction, identity systems, audience interpretation, category codes, distinctiveness, naming due diligence, messaging architecture, design briefs, or evaluation of supplied names and visual/verbal artifacts. Stops at conceptual analysis and direction: it does not present invented names, logos, typography, palettes, imagery, sound, or other sensory specifics as authoritative creative work."
+license: MIT
 ---
 
 # Identity Strategy
